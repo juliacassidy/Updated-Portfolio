@@ -13,3 +13,16 @@ body{
 #pad{
 padding: 5px;
 }
+
+#YT{
+    width: 30%;
+}
+
+#LI{
+    width: 20%;
+    padding-right: 30px;
+}
+
+#Git{
+    width: 20%;
+}
